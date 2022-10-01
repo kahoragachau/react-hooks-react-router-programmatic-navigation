@@ -11,4 +11,4 @@ function Home({ isLoggedIn }) {
   );
 }
 
-export default Home;
+export default Home; 
